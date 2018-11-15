@@ -1,0 +1,6 @@
+*.jpg
+*.JPG
+*.MP4
+*.mp4
+with_docker/
+*.so
